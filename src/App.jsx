@@ -29,7 +29,7 @@ function App() {
   return (
     <div>
       <h3>CAMPUS NOTIFICATIONS</h3>
-      <p>top 10 notifications</p>
+      <p>10 notifications</p>
       <table border="1" cellPadding="10" cellSpacing="0">
         <tr>
           <td>id</td>
