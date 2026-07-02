@@ -23,7 +23,9 @@ function App() {
       top10.push(notifications[i]);
     }
   }
-
+  const addNotification=()=>{
+    if(!id||!type||!message||!timestamp) return
+  }
   return (
     <div>
       <h3>CAMPUS NOTIFICATIONS</h3>
